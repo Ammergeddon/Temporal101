@@ -27,8 +27,6 @@ It contains all hands-on exercises as well as some of the demo cases. Further de
 [![Go][Go]][Go]
 [![Temporal][Temporal]][Temporal]
 
-<p align="right"><a href="#top">Back To Top</a></p>
-
 
 
 <!-- GETTING STARTED -->
@@ -58,8 +56,6 @@ After everything is setup specific workflows can either be started via the *Star
 After you can start a worker to pickup any waiting workflow and execute it. For more information about the interaction
 between workflows and workers please refer to the [official documentation](https://learn.temporal.io/getting_started/java/first_program_in_java/).
 
-<p align="right"><a href="#top">Back To Top</a></p>
-
 
 
 
@@ -68,16 +64,12 @@ between workflows and workers please refer to the [official documentation](https
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right"><a href="#top">Back To Top</a></p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
 [![email-shield]][email] [![linkedin-shield]][linkedin-url]
-
-<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
