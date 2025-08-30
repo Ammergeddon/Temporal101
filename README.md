@@ -41,9 +41,6 @@ have to be setup on your local machine. To execute a workflow it is necessary fo
   temporal server start-dev --ui-port 8080
   ```
 
-<p align="right"><a href="#top">Back To Top</a></p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
